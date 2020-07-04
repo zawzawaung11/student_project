@@ -9,3 +9,4 @@
 
 ## About Student Management System
 
+![Alt Text](https://tufaceous-shifts.000webhostapp.com/img/student_project.gif)
